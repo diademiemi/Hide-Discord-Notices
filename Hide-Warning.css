@@ -1,0 +1,3 @@
+/* Theme to hide Disccord notices */
+
+*[class^='notice-'] { display: none !important; }

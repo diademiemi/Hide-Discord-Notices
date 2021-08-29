@@ -1,0 +1,8 @@
+{
+    "name": "Hide Discord notices.",
+    "description": "I know about Streamer mode! My installation is fine! Shut up Discord",
+    "version": "1.0.0",
+    "author": "diademiemi",
+    "license": "Unlicense",
+    "theme": "Hide-Warning.css"
+}
